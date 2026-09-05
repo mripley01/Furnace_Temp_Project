@@ -1,6 +1,6 @@
 # Furnace_Temp_Project
 
-This data comes from various furnaces used to heat treat aerospace components.  My goal is to understand how furnaces react to a door open event (that will be in a different data set).  Furnace temperature will drop, and will take some period of time to recover to the set point.  I'd like to identify errant thermocouples, furnaces that do not recover to temperature in a reasonable time, what that reasonable time is based on the other furnaces, etc. 
+This data comes from various furnaces used to heat treat aerospace components.  My goal is to understand how furnaces react to a door open event (that will be in a different data set).  Furnace temperature will drop, and will take some period of time to recover to the set point.  I'd like to identify errant thermocouples, furnaces that do not recover to temperature in a reasonable time, what that reasonable time is based on the other furnaces, which thermocouple is closest to the door, etc. 
 
 ## Data Structure
 
